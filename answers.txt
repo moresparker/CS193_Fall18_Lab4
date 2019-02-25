@@ -2,7 +2,7 @@ Task 1:
 
 // Hello, World!
 
-// Under this line, describe what the command 'git fetch' does
+// git fetch updates the status of the master branch to your local repository, stating whether it is even or not with the master.
 
 
 Task 2:
