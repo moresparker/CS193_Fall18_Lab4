@@ -7,7 +7,7 @@ Task 1:
 
 Task 2:
 
-// Under this line describe why we need to run 'git push' after making a commit
+// git push is used to push any changes committed on a local repository to a master repository that is not hosted on a  local device
 
 Task 3:
 
