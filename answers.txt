@@ -1,13 +1,16 @@
 Task 1:
 
-// Hello, World!
+// Under this line write a message to yourself from GitHub
+ Hello, World!
 
-// git fetch updates the status of the master branch to your local repository, stating whether it is even or not with the master.
+// Under this line , describe what the command 'git fetch' does
+ git fetch updates the status of the master branch to your local repository, stating whether it is even or not with the master.
 
 
 Task 2:
 
-// git push is used to push any changes committed on a local repository to a master repository that is not hosted on a  local device
+// Under this line describe why we need to run 'git push' after making a commit
+git push is used to push any changes committed on a local repository to a master repository that is not hosted on a  local device
 
 Task 3:
 
